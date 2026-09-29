@@ -56,9 +56,9 @@ Coming soon 😅
 
 ## 📈   Some of my stats are:
 
-<img src="https://github-readme-stats.vercel.app/api?username=demon-for-arcangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/demon-for-arcangel/github-readme-stats" alt="demon-for-arcangel" />
+<img src="https://github-readme-stats.vercel.app/api?username=demon-for-arcangel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gotham#gh-dark-mode-only)](https://github.com/mlagunav22/github-readme-stats" alt="mlagunav22" />
 
-[![Most Use Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demon-for-arcangel&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/demon-for-angel/github-readme-stats)
+[![Most Use Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlagunav22&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/mlagunav22/github-readme-stats)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=demon-for-arcangel&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mlagunav22&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
